@@ -1,2 +1,2 @@
 # Curso_Python
-Exercícios do mundo 1 e 2 do curso de python - Curso em Vídeo
+Exercícios do mundo 1, 2 e 3 do curso de python - Curso em Vídeo
